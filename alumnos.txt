@@ -1,0 +1,2 @@
+-Alumno: 72564644, Enrique Custodi, 23, [20, 18, 16, 14], 20, 14, 17.0
+-Alumno: 87654321, Maria Alejandra, 23, [20, 20, 20, 20], 20, 20, 20.0
